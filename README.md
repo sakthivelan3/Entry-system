@@ -49,14 +49,14 @@ The Building Entry System is a web application designed to manage and monitor th
    ```bash
    npm start
 
-##API Endpoints
+###API Endpoints
 - **POST /api/entry**: Register an entry. Requires personId and gate in the request body.
 - **POST /api/exit**: Register an exit. Requires personId and gate in the request body.
 - **GET /api/people**: Retrieve a list of people currently inside the building.
 - **GET /api/history**: Retrieve historical records for a person. Requires personId, startDate, and endDate as query parameters.
 - **GET /api/analytics**: Retrieve analytics data.
 
-##Usage
+###Usage
 1. **Register Entries and Exits**:
     Use the Entry/Exit form to register people entering or exiting the building.
 2. **View Current People**:
