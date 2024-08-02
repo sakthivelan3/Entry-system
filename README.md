@@ -1,5 +1,12 @@
  # Building Entry System
 
+## Webpage UI
+
+![EntryExit](https://github.com/user-attachments/assets/80cc9680-24ec-4fa6-ac37-d9e86772b0c7)
+![History](https://github.com/user-attachments/assets/66d25194-d122-4328-9ebe-889ad8b2821e)
+![complete_page](https://github.com/user-attachments/assets/57c3ceae-41b8-4e6a-a6b4-28a3ccb9e748)
+
+
 ## Overview
 
 The Building Entry System is a web application designed to manage and monitor the entry and exit of people in a building. It features functionalities for registering entries and exits, tracking people currently inside the building, viewing historical records, and analyzing usage data.
